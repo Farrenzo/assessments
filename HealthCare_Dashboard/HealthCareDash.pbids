@@ -1,0 +1,1 @@
+{"version":"1.0","connections":[{"details":{"protocol":"tds","address":{"server":"simplereports.database.windows.net","database":"HealthCareDash"}},"mode":"DirectQuery"}]}
