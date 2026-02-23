@@ -37,7 +37,6 @@ This project includes:
 This project is ideal for demonstrating your ability to **build from scratch**, write robust SQL DDL, and model real-world data domains.
 
 ---
-
 ## Repository Structure
 
 ```text
@@ -55,9 +54,11 @@ assessments/
 ├── .gitignore
 └── README.md
 ```
-
-
 ---
+
+## File prefixes
+- sif = SQL info file
+- rdf = Raw data file
 
 ## Core Skills Demonstrated
 
