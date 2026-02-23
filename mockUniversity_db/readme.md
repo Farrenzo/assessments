@@ -1,8 +1,8 @@
 # Mock University Assignment
 
-## Prefixes
-sif = SQL info file
-rdf = Raw data file
+## File prefixes
+- sif = SQL info file
+- rdf = Raw data file
 
 ### Get students in a given program
 
